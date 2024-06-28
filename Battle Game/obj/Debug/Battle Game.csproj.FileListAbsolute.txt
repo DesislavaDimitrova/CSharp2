@@ -1,0 +1,7 @@
+C:\Users\HP\Desktop\Battle game\Battle Game\Battle Game\bin\Debug\Battle Game.exe.config
+C:\Users\HP\Desktop\Battle game\Battle Game\Battle Game\bin\Debug\Battle Game.exe
+C:\Users\HP\Desktop\Battle game\Battle Game\Battle Game\bin\Debug\Battle Game.pdb
+C:\Users\HP\Desktop\Battle game\Battle Game\Battle Game\obj\Debug\Battle Game.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Battle game\Battle Game\Battle Game\obj\Debug\Battle Game.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Battle game\Battle Game\Battle Game\obj\Debug\Battle Game.exe
+C:\Users\HP\Desktop\Battle game\Battle Game\Battle Game\obj\Debug\Battle Game.pdb
